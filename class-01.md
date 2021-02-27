@@ -51,7 +51,8 @@ To create your first web page on a PC, start up Notepad folow this [website](htt
 
 An HTML quiz for beginners :
 
-- What does HTML stand for?                                    
+- What does HTML stand for?  
+                                  
 (A)Hyper Text Markup Language                                      
 (B)Hot Mail                                                        
 (C)How to Make Lasagna  
@@ -62,9 +63,13 @@ An HTML quiz for beginners :
 (3) 3
 
 - what is the difference in an opening tag and a closing tag?
-(A)Opening tag has a / in front
+
+(A)Opening tag has a / in fron
+
 (B)Closing tag has a / in front
+
 (C)There is no difference
+
 
 
 
