@@ -146,6 +146,28 @@ C. The second page
 
 # HTML 5 LAYOUT 
 
+HTML5 is introducing a new set of
+elements that help define the structure of
+a page.
+
+- HTML5 introduces a new set of elements that allow you to divide up the
+parts of a page
+
+![HTML5](https://tse4.mm.bing.net/th?id=OIP.Ac0ljqN79Ucdi_HBEQIjkAHaFl&pid=Api&P=0&w=207&h=157)
+
+-The new HTML5 elements Indicate the purpose of
+different parts of a web page and help to describe
+its structure.
+
+-To make HTML5 elements work in Internet Explorer 8
+(and older versions of IE), extra JavaScript is needed,
+which is available free from Google
+
+
+# 
+
+
+
 
  
 
