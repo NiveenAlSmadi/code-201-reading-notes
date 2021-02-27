@@ -1,4 +1,4 @@
-# CODE 201 READING NOTES:
+# CODE 201 READING NOTES
 ## Description: 
 ### Welcome to Niveen's Notes
 
