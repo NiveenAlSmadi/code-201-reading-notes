@@ -27,9 +27,9 @@ Tags act like containers ,They tell us  something about the information that lie
  here is some of main tags :
 - The opening <html> tag indicates that anything between it and a closing </html> tag is HTML code
 - The <body> tag indicates that anything between it and the closing </body> tag should be shown inside the main browser window.
-- Words between <h1> and </h1> are a main heading.
-- A paragraph of text appears between these <p> and </p> tags.
-- Another sub-heading inside <h2> and </h2> tags.
+- Words between h1 and /h1 are a main heading.
+- A paragraph of text appears between these p and /P tags.
+- Another sub-heading inside h2 and /h2 tags.
  
 ## A Closer Look at Tags 
 ![closer code](https://tse3.mm.bing.net/th?id=OIP.NPBAkO5y-2yIzHg2nZGlCgHaBM&pid=Api&P=0&w=515&h=83)
@@ -51,10 +51,15 @@ To create your first web page on a PC, start up Notepad folow this [website](htt
 
 An HTML quiz for beginners :
 
-- What does HTML stand for?                                     -  How many tags are in a regular element?
-(A)Hyper Text Markup Language                                      (A) 2
-(B)Hot Mail                                                        (B) 1
-(C)How to Make Lasagna                                             (3) 3
+- What does HTML stand for?                                    
+(A)Hyper Text Markup Language                                      
+(B)Hot Mail                                                        
+(C)How to Make Lasagna  
+
+-  How many tags are in a regular element? 
+(A) 2
+(B) 1
+(3) 3
 
 - what is the difference in an opening tag and a closing tag?
 (A)Opening tag has a / in front
