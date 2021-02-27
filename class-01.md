@@ -155,16 +155,64 @@ parts of a page
 
 ![HTML5](https://tse4.mm.bing.net/th?id=OIP.Ac0ljqN79Ucdi_HBEQIjkAHaFl&pid=Api&P=0&w=207&h=157)
 
--The new HTML5 elements Indicate the purpose of
++ The new HTML5 elements Indicate the purpose of
 different parts of a web page and help to describe
 its structure.
 
--To make HTML5 elements work in Internet Explorer 8
++ To make HTML5 elements work in Internet Explorer 8
 (and older versions of IE), extra JavaScript is needed,
 which is available free from Google
+ Table(1.2)  TAGS list
+  
+  
+TAG | USE
+----| ------
+nav| used to contain the major navigational blocks
+article |element acts as a container for any section of a page
+aside |it should contain information that is related to the article but not essential to its overall meaning.
+section |groups related content together, and typically each section would have its own heading.
+
+# Process & Design
+
+![web](https://tse3.mm.bing.net/th?id=OIP.bSHwFb3Rbarfu-fOUMyOAwHaHX&pid=Api&P=0&w=300&h=300)
+
+1.It's important to understand who your target audience
+is, why they would come to your site, what information
+they want to find and when they are likely to return.
 
 
-# 
+2.Site maps allow you to plan the structure of a site.
+
+3. Wireframes allow you to organize the information that
+will need to go on each page.
+
+4. Design is about communication. Visual hierarchy helps
+visitors understand what you are trying to tell them.
+
+5. You can differentiate between pieces of information
+using size, color, and style.
+
+6. You can use grouping and similarity to help simplify
+the information you present.
+
+# JavaScript 
+
+![js](https://tse4.mm.bing.net/th?id=OIP.Raj_6TycseAeG-qdofckiwHaDt&pid=Api&P=0&w=307&h=154)
+
+## why we use JavaScript? 
+ it used in browsers to make websites more interactive, interesting, and user-friendly.
+ 
+ ![js](https://tse2.mm.bing.net/th?id=OIP.H5m5zgjt0jCe__l7cQ_8vgHaEr&pid=Api&P=0&w=251&h=159)
+ #### what is the script ?
+ A script is a series of instructions that a computer can follow to achieve a goal.
+ #### How i can Wright the script?
+ To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
+ ####
+ 
+
+
+  
+  
 
 
 
