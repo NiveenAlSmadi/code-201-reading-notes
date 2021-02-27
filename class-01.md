@@ -199,12 +199,19 @@ the information you present.
 
 ![js](https://tse4.mm.bing.net/th?id=OIP.Raj_6TycseAeG-qdofckiwHaDt&pid=Api&P=0&w=307&h=154)
 
+
 ## why we use JavaScript? 
  it used in browsers to make websites more interactive, interesting, and user-friendly.
  
+ 
  ![js](https://tse2.mm.bing.net/th?id=OIP.H5m5zgjt0jCe__l7cQ_8vgHaEr&pid=Api&P=0&w=251&h=159)
+ 
+ 
+ 
  #### what is the script ?
  A script is a series of instructions that a computer can follow to achieve a goal.
+ 
+ 
  #### How i can Wright the script?
  To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
 
