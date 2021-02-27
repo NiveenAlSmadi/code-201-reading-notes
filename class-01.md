@@ -141,7 +141,7 @@ B. The home page
 
 C. The second page
 
-2. The  div tag defines a (     ) in an HTML document **Fill it** 
+2.The  div tag defines a (     ) in an HTML document **Fill it** 
 
 
 # HTML 5 LAYOUT 
