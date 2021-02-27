@@ -4,8 +4,11 @@ HTML stands for Hyper Text Markup Language , so  what is the HTML Langage ? why 
 HTML is the standard markup language for creating **Web pages**, also HTML describes the structure of a Web page.
 
 there is Many books that teach HTML resemble dull manuals. To make it easier for you to learn, so all this summary from
-[Duckett HTML book](http://www.htmlandcssbook.com/code-samples/) and its Highly recommendded for beginners in programming :
+[Duckett HTML book](http://www.htmlandcssbook.com/code-samples/) and its Highly recommended for beginners in programming :
+
+ 
  ## See how HTML describes the structure of a web page??
+ 
  ![HTML](https://render.fineartamerica.com/images/rendered/search/print/6.5/8/break/images-medium/2-internet-computer-code-christian-darkin.jpg)
  
  
@@ -57,10 +60,13 @@ An HTML quiz for beginners :
 (B)Hot Mail                                                        
 (C)How to Make Lasagna  
 
--  How many tags are in a regular element? 
-(A) 2
-(B) 1
-(3) 3
+-  How many tags are in a regular element?
+ 
+  (A) 2 
+
+  (B) 1
+
+  (3) 3
 
 - what is the difference in an opening tag and a closing tag?
 
@@ -69,6 +75,63 @@ An HTML quiz for beginners :
 (B)Closing tag has a / in front
 
 (C)There is no difference
+
+
+# The different versions of HTML
+Since the web was first created, there have been several different versions of HTML.Each new version was designed
+to be an improvement on the last (with new elements and attributes added and older code removed) ,Check this [link](https://www.educba.com/versions-of-html/) for more info about version.
+### If you want to add a comment 
+to your code that will not be visible in the user's browser, you can add the text between these characters:
+
+![comment](https://tse4.mm.bing.net/th?id=OIP.1ksoMc7QiwENBwGfrGWFRgHaCo&pid=Api&P=0&w=461&h=165)
+
+-Every **HTML element** can carry the *id attribute* It is used to uniquely identify that element from other elements on the page.nt can also carry a *class attribute*
+Sometimes, rather than uniquely identifying one element within a document.
+
+-Some elements will always appear to start on a new line in the browser window. These are known as *block level elements.*
+
+-Some elements will always appear to continue on the same line as their neighbouring elements. These are known as *inline elements*
+
+## div, span and iframe
+
+- <div> The div element allows you to group a set of elements together in one block-level box. For example, you might create a <div> element to contain all of the elements for the header of your site (the logo and the navigation)
+
+
+
+![div](https://tse4.mm.bing.net/th?id=OIP.I-tsImYHluMVYr22NK9ztQHaFj&pid=Api&P=0&w=213&h=161)
+
+- <span>  The span element acts like an inline equivalent of the div element. It is used to either:
+ 
+1. Contain a section of text where there is no other suitable element to differentiate it from its surrounding text
+2. Contain a number of inline elements
+
+![span](https://tse3.mm.bing.net/th?id=OIP.tPbj61nu4qOU1JypoBZdugAAAA&pid=Api&P=0&w=300&h=300)
+ 
+-<iframe> An iframe is like a little window that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame.
+ There are afew attributes that you will need to know to use it:
+ 
+ 
+1. **src** :
+The src attribute specifies the
+URL of the page to show in the
+frame.
+
+2. **height**:
+The height attribute specifies
+the height of the iframe in pixels.
+
+3. **width**:
+The width attribute specifies
+the width of the iframe in pixels.
+
+ 
+
+
+
+
+
+
+
 
 
 
