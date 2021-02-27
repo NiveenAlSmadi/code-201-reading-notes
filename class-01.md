@@ -207,7 +207,15 @@ the information you present.
  A script is a series of instructions that a computer can follow to achieve a goal.
  #### How i can Wright the script?
  To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
- ####
+
+
+Refrences  | 
+------------ | 
+[link1](http://www.htmlandcssbook.com/code-samples/)| 
+[link2](https://www.wikihow.com/Write-a-Script)| 
+[link3](https://r.search.yahoo.com/_ylt=AwrJ6yvMrDpgNgcAo0BXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1614486860/RO=10/RU=https%3a%2f%2fwww.w3schools.com%2fHTML%2fhtml_quiz.asp/RK=2/RS=_3l6lwg.CujDH5I30.Wl45iNXvc-)|  
+[link4](https://www.proprofs.com/quiz-school) | 
+
  
 
 
