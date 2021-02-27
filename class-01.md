@@ -124,6 +124,29 @@ the height of the iframe in pixels.
 The width attribute specifies
 the width of the iframe in pixels.
 
+- The <meta> tag allows you to supply all kinds of
+information about your web page.
+
+![meta](https://tse2.mm.bing.net/th?id=OIP.81-aJ_zpLlk5rJisoydljAAAAA&pid=Api&P=0&w=256&h=181)
+
+- Escape characters are used to include special
+characters in your pages such as <, >, and ©
+
+# NIVO QUIZ 
+1. where is the meta tag only found?
+
+A. The last page
+
+B. The home page
+
+C. The second page
+
+2. The  div tag defines a (     ) in an HTML document **Fill it** 
+
+
+# HTML 5 LAYOUT 
+
+
  
 
 
