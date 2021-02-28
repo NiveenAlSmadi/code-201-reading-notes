@@ -175,6 +175,43 @@ just store one value; it stores a list of values.
 - Expressions rely on operators to calculate a value.
 
 
+# Decisions and Loops 
+
+- DECISIONS
+Using the results of
+evaluations, you can
+decide which path your
+script should go down
+
+- LOOPS
+There are also many
+occasions where you will
+want to perform the same
+set of steps repeatedly 
+
+## Operators 
+
+
+![oo](https://tse2.mm.bing.net/th?id=OIP.c6bPbcoBciA-T_3jrKA_qgHaDl&pid=Api&P=0&w=378&h=183)
+
+
+![00](https://tse4.mm.bing.net/th?id=OIP.inDCT1fb7f27o6G8ZLbjQwHaCj&pid=Api&P=0&w=507&h=175)
+
+
+# Conditional Statements
+onditional statements are used to perform different actions based on different conditions.
+
+Very often when you write code, you want to perform different actions for different decisions.
+
+You can use conditional statements in your code to do this.
+
+In JavaScript we have the following conditional statements:
+
+Use if to specify a block of code to be executed, if a specified condition is true
+Use else to specify a block of code to be executed, if the same condition is false
+Use else if to specify a new condition to test, if the first condition is false
+
+ 
 
 
 
@@ -182,9 +219,7 @@ just store one value; it stores a list of values.
 
 
 
-
-
-
-
-
-
+Sources:
+HTML & CSS Design and Build Websites - By: Jon Ducket
+Javascript and Jquery Interactive - By: Jon Ducket
+https://www.w3schools.com/ 
