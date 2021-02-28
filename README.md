@@ -13,7 +13,7 @@ Hey ,I'm Niveen 22 years old , A Mechatronics Engineer , Graduated from Hasemait
 Contant | Page number  | Fee |
 ---------| ----------- |------|
 Class1 | [PAGE1](https://niveenalsmadi.github.io/code-201-reading-notes/class-01)| 0$ |
-Class2 |[PAGE2]|0$|
+Class2 |[PAGE2](https://niveenalsmadi.github.io/code-201-reading-notes/class-02)|0$|
 Class3 |[PAGE3]|  0$| 
 Class4 |[PAGE4]|  0$| 
 Class5 |[PAGE5]|  0$| 
