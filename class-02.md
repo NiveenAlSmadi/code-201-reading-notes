@@ -27,9 +27,19 @@ be subscript. It is commonly
 used with foot notes or chemical
 formulas such as H2
 0.
+
+
+
 ![sub/sup](https://tse3.explicit.bing.net/th?id=OIP.dqKu_g95XEf-RTfGnLJgswHaBh&pid=Api&P=0&w=522&h=108)
 
+
+
+
+
+
 - Line Breaks & Horizontal Rules
+
+
 ![br](https://image.slidesharecdn.com/htmlbasictags-160513191106/95/html-basic-tags-15-638.jpg?cb=1463166704)
 
 
@@ -37,6 +47,8 @@ formulas such as H2
  its text elements that are not intended to affect the
 structure of your web pages, but they do add extra information to the
 pages .
+
+
 ![sm](https://tse1.mm.bing.net/th?id=OIP.UlkAey5WVOnEiBzzDFaG4gHaEu&pid=Api&P=0&w=256&h=164)
 
 ## so HTML elements are used to
@@ -68,7 +80,11 @@ B.
 Src=”image.jpg/gif” alt=”type some text
 
 
+
 # What CSS does ?
+
+
+
 ![css](https://tse1.mm.bing.net/th?id=OIP.J_93nzSPw4JS9Y_mFqZ9MQHaHa&pid=Api&P=0&w=300&h=300)
 
 
@@ -78,7 +94,12 @@ an element should appear  works by associating rules with HTML elements. These r
 how the content of specified elements should be displayed. A CSS rule
 contains two parts: a selector and a declaration .
 # CSS style types 
+
+
+
 ![CSS](https://tse3.mm.bing.net/th?id=OIP.Ii2aI9dTV7LfJJS_Sv5WQQHaFf&pid=Api&P=0&w=209&h=156)
+
+
 
 # Css  Benefits ...
 
@@ -109,6 +130,54 @@ D - All of the above.
 
 
 ## Q 2 - CSS stand of what ??
+
+
+# javaScript 
+- A script is a series of instructions that a computer can follow one-by-one.
+Each individual instruction or step is known as a statement.
+Statements should end with a semicolon.
+- we  should write comments to explain what our code does.
+They help make our code easier to read and understand.
+This can help you and others who read your code.
+
+
+## WHAT IS A VARIABLE?
+
+- A script will have to temporarily
+store the bits of information it
+needs to do its job. It can store this
+data in variables. 
+
+
+![js](https://tse2.mm.bing.net/th?id=OIP.sap9yomcquBOxpoTaRygRwAAAA&pid=Api&P=0&w=287&h=153)
+
+## Data Type 
+
+
+
+![data](https://tse2.mm.bing.net/th?id=OIP.-sxX6kUJopooBNrUaLZa_gHaDd&pid=Api&P=0&w=391&h=183)
+
+
+
+## what is the  ARRAYS ?
+An array is a special type of variable. It doesn't
+just store one value; it stores a list of values.
+
+
+
+![arrays](https://tse4.mm.bing.net/th?id=OIP.Nob83Zs02qIHcAWVcWnpngHaEH&pid=Api&P=0&w=301&h=168)
+
+
+## so js 
+
+- JavaScript distinguishes between numbers (0-9) strings (text), and Boolean values (true or false).
+- Expressions evaluate into a single value.
+- Expressions rely on operators to calculate a value.
+
+
+
+
+
 
 
 
