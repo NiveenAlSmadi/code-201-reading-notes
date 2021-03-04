@@ -32,7 +32,7 @@ attribute in a tootip when the
 user hovers over the imag
 
 
-![img])(https://tse2.mm.bing.net/th?id=OIP.yB-m1l3ux0YUTh4G34x-YQHaEZ&pid=Api&P=0&w=292&h=174)
+![img](https://tse2.mm.bing.net/th?id=OIP.yB-m1l3ux0YUTh4G34x-YQHaEZ&pid=Api&P=0&w=292&h=174)
 
 - we can also  edit the img by :
 
