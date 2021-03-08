@@ -6,12 +6,9 @@ CSS treats each HTML element as if it is in its own box.
 Block-level elements
 start on a new line
 
-Examples include: <h1> <p> <ul> <li>
-
 Inline elements
 flow in between surrounding text
 
-Examples include: <img> <b> <i> 
 
 ![img](https://tse2.mm.bing.net/th?id=OIP.d05dLpDEQU_qGnmRpLVjLAHaIV&pid=Api&P=0&w=300&h=300)
 
