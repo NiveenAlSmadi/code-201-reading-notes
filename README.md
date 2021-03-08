@@ -19,7 +19,7 @@ Class4 |[PAGE4](https://niveenalsmadi.github.io/code-201-reading-notes/class-04)
 Class5 |[PAGE5](https://niveenalsmadi.github.io/code-201-reading-notes/class-05)|  0$| 
 Class6 |[PAGE6](https://niveenalsmadi.github.io/code-201-reading-notes/class-06)|  0$|
 Class7 |[PAGE7](https://niveenalsmadi.github.io/code-201-reading-notes/class-07)|  0$|
-Class8 |[PAGE8]|  0$| 
+Class8 |[PAGE8](https://niveenalsmadi.github.io/code-201-reading-notes/class-08)|  0$| 
 Class9 |[PAGE9]|  0$| 
 Class10|[PAGE10]| 0$| 
 Class11|[PAGE11]| 0$|
