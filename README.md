@@ -12,17 +12,17 @@ Hey ,I'm Niveen 22 years old , A Mechatronics Engineer , Graduated from Hasemait
 
 Contant | Page number  | Fee |
 ---------| ----------- |------|
-Class1 | [PAGE1](https://niveenalsmadi.github.io/code-201-reading-notes/class-01)| 0$ |
-Class2 |[PAGE2](https://niveenalsmadi.github.io/code-201-reading-notes/class-02)|0$|
+Class1 | [PAGE1](https://niveenalsmadi.github.io/code-201-reading-notes/class-01)| 0$|
+Class2 |[PAGE2](https://niveenalsmadi.github.io/code-201-reading-notes/class-02)|  0$|
 Class3 |[PAGE3](https://niveenalsmadi.github.io/code-201-reading-notes/class-03)|  0$| 
-Class4 |[PAGE4](https://niveenalsmadi.github.io/code-201-reading-notes/class-04) | 0$| 
+Class4 |[PAGE4](https://niveenalsmadi.github.io/code-201-reading-notes/class-04)|  0$| 
 Class5 |[PAGE5](https://niveenalsmadi.github.io/code-201-reading-notes/class-05)|  0$| 
 Class6 |[PAGE6](https://niveenalsmadi.github.io/code-201-reading-notes/class-06)|  0$|
 Class7 |[PAGE7](https://niveenalsmadi.github.io/code-201-reading-notes/class-07)|  0$|
 Class8 |[PAGE8](https://niveenalsmadi.github.io/code-201-reading-notes/class-08)|  0$| 
 Class9 |[PAGE9](https://niveenalsmadi.github.io/code-201-reading-notes/class-09)|  0$| 
 Class10|[PAGE10](https://niveenalsmadi.github.io/code-201-reading-notes/class-10)| 0$| 
-Class11|[PAGE11]| 0$|
+Class11|[PAGE11](https://niveenalsmadi.github.io/code-201-reading-notes/class-11)| 0$|
 Class12|[PAGE12]| 0$|
 Class13|[PAGE13]| 0$| 
 Class14|[PAGE14]| 0$| 
