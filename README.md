@@ -25,8 +25,8 @@ Class10|[PAGE10](https://niveenalsmadi.github.io/code-201-reading-notes/class-10
 Class11|[PAGE11](https://niveenalsmadi.github.io/code-201-reading-notes/class-11)| 0$|
 Class12|[PAGE12](https://niveenalsmadi.github.io/code-201-reading-notes/class-12)| 0$|
 Class13|[PAGE13](https://niveenalsmadi.github.io/code-201-reading-notes/class-13)| 0$| 
-Class14|[PAGE14](https://niveenalsmadi.github.io/code-201-reading-notes/class-14a)| 0$| 
-Class15|[PAGE15]| 0$| 
+Class14A|[PAGE14a](https://niveenalsmadi.github.io/code-201-reading-notes/class-14a)| 0$| 
+Class14B|[PAGE14b](https://niveenalsmadi.github.io/code-201-reading-notes/class-14b)| 0$| 
 
   
   
