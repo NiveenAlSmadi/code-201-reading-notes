@@ -1,4 +1,4 @@
-# Read: 14b Summary
+
 ## What Google Learned From Its Quest to Build the Perfect Team
 ##### We should not focus only on efficiency but on life at work because the work is more than just labor.
 1. How to Build a Perfect Team
